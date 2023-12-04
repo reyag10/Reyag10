@@ -1,10 +1,10 @@
-I am Arif-uz-zaman from Dhaka, Bangladesh. I am a MERN stack web developer. I am very comfortable in React, MongoDB, Express, NodeJS, and firebase.
+I am Ryeag Uddin from Dhaka, Bangladesh. I am a MERN stack web developer. I am very comfortable with HTML, CSS, Bootstrap, TailwindCSS, React, MongoDB, Express, NodeJS, and Firebase.
 
 I am expert in Web design and Development.
 
 ✅ My major Expertise's are following :
 
-Business Website design and Development by React, sequel or no sequel database.
+Business Website Design and Development by React, sequel or no sequel database.
 
 eCommerce Website development by React.
 
@@ -38,7 +38,7 @@ I am friendly and helpful. If you Think that I am perfect for your project or co
 
 Thank you so much for reading my complete overview.
 
-Email: arifuzzaman959@gmail.com Linkedin: https://www.linkedin.com/in/arifuzzaman870/
+Email: mdreyazuddin632@gmail.com Linkedin: https://www.linkedin.com/in/reyag10/
 
 ✅ Looking forward to working with you.
 
