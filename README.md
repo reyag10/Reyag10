@@ -1,14 +1,14 @@
 I am Ryeag Uddin from Dhaka, Bangladesh. I am a MERN stack web developer. I am very comfortable with HTML, CSS, Bootstrap, TailwindCSS, React, MongoDB, Express, NodeJS, and Firebase.
 
-I am expert in Web design and Development.
+I am an expert in Web design and Development.
 
 ✅ My major Expertise's are following :
 
-Business Website Design and Development by React, sequel or no sequel database.
+. Business Website Design and Development by React, sequel or no sequel database.
 
 eCommerce Website development by React.
 
-PSD to Pixel perfect responsive Website design using React with material UI or React Bootstrap or React tailwind.
+Responsive Website design using React with material UI or React Bootstrap or React Tailwind.
 
 PSD, XD or figma file to Full-stack website development Conversion.
 
@@ -20,11 +20,11 @@ Booking System website by React.
 
 WordPress Theme Development like premium Theme.
 
-I am very comfortable with web and mobile app UI design by adobe XD, illustrator or Photoshop
+I am very comfortable with web and mobile app UI design by Adobe XD, Illustrator or Photoshop
 
 I have already done more than 10 projects by MERN stack technology.
 
-I am experienced with managing Databases. I have created education board result system by using PHP and MySQL.
+I am experienced with managing Databases. I have created an education board result system by using PHP and MySQL.
 
 I have an Excellent idea about Photoshop as well
 
